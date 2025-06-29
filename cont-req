@@ -1,0 +1,19 @@
+MYSQL  -- 8.0.33
+MEMCACHE -- 1.6
+RABBITMQ 4.0
+JDK -- JDK 21
+MAVEN -- Maven 3.9.9
+TOMCAT -- 10, jdk21
+NGINX -- 1.27
+
+
+mysql:8.0.33
+memcahche:latest
+rabbitmq:latest
+maven:3.9.9-eclipse-temurin-21-jammy
+tomcat:10-jdk21
+nginx:latest
+
+
+
+
